@@ -13,8 +13,8 @@ Welcome to my GitHub repository! Here, you'll find projects where I leverage **S
 - Cleaned and transformed **2,000+ rows of financial data** using Power Query.  
 - Identified **YoY/MoM growth trends** and reduced redundant vendor costs by **15%** through variance analysis.  
  <img width="5334" height="3042" alt="Finance Analysis Dashboard-1" src="https://github.com/user-attachments/assets/96f36c33-a525-4fc7-b193-7eb270735fab" />
-<img width="5334" height="3042" alt="Finance Analysis Dashboard-4" src="https://github.com/user-attachments/assets/f9668474-b4a5-40f0-bb6f-3a646228e27c" />
 <img width="5334" height="3042" alt="Finance Analysis Dashboard-2" src="https://github.com/user-attachments/assets/5904ba2d-0589-4915-8814-6023e66bc180" /><img width="5334" height="3042" alt="Finance Analysis Dashboard-3" src="https://github.com/user-attachments/assets/3bd893c2-f508-4605-a0e7-7b08723f5c5f" />
+<img width="5334" height="3042" alt="Finance Analysis Dashboard-4" src="https://github.com/user-attachments/assets/f9668474-b4a5-40f0-bb6f-3a646228e27c" />
 
 
 
@@ -25,7 +25,10 @@ Welcome to my GitHub repository! Here, you'll find projects where I leverage **S
 **Key Achievements**:  
 - Analyzed seasonal sales data to identify **purchasing patterns** and **anomalies**.  
 - Visualized key metrics (e.g., top-selling products, regional trends) to optimize holiday inventory planning.  
-- **[View Dashboard](#)** *(link to Power BI report or GitHub notebook)*  
+<img width="2767" height="1600" alt="latihan 10 xmas sales-1" src="https://github.com/user-attachments/assets/8850c196-b2ae-4af1-aa9b-b54fdfa30f0d" />
+<img width="2767" height="1600" alt="latihan 10 xmas sales-2" src="https://github.com/user-attachments/assets/2c69a52a-721e-42b4-9988-81e456cd5197" />
+<img width="2767" height="1600" alt="latihan 10 xmas sales-3" src="https://github.com/user-attachments/assets/7c392605-62e6-4953-904b-32b7132f2a19" />
+
 
 ---
 
@@ -34,7 +37,8 @@ Welcome to my GitHub repository! Here, you'll find projects where I leverage **S
 **Key Achievements**:  
 - Conducted **profitability analysis** to measure strategy effectiveness.  
 - Identified **operational inefficiencies** (e.g., slow-moving inventory) using pivot tables and SQL queries.  
-- **[View SQL Queries](#)** *(link to .sql file)*  
+
+<img width="2304" height="1818" alt="latihan 8 (1) (2)" src="https://github.com/user-attachments/assets/5abdf51d-a35d-44ab-a031-9428e671f1b1" />
 
 ---
 
