@@ -12,7 +12,11 @@ Welcome to my GitHub repository! Here, you'll find projects where I leverage **S
 - Built an **interactive real-time dashboard** to track KPIs (Revenue, COGS, OPEX, Profitability).  
 - Cleaned and transformed **2,000+ rows of financial data** using Power Query.  
 - Identified **YoY/MoM growth trends** and reduced redundant vendor costs by **15%** through variance analysis.  
-- **[View Dashboard Screenshot](#)** *(link to image or Power BI file)*  
+ <img width="5334" height="3042" alt="Finance Analysis Dashboard-1" src="https://github.com/user-attachments/assets/96f36c33-a525-4fc7-b193-7eb270735fab" />
+<img width="5334" height="3042" alt="Finance Analysis Dashboard-4" src="https://github.com/user-attachments/assets/f9668474-b4a5-40f0-bb6f-3a646228e27c" />
+<img width="5334" height="3042" alt="Finance Analysis Dashboard-2" src="https://github.com/user-attachments/assets/5904ba2d-0589-4915-8814-6023e66bc180" /><img width="5334" height="3042" alt="Finance Analysis Dashboard-3" src="https://github.com/user-attachments/assets/3bd893c2-f508-4605-a0e7-7b08723f5c5f" />
+
+
 
 ---
 
